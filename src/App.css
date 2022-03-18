@@ -44,3 +44,10 @@
   border: 2px dotted red;
   border-radius: 12px;
 }
+.user-style{
+  background-color: rgb(94, 175, 230);
+  border: 2px dotted red;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 15px;
+}
